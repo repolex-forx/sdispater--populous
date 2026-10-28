@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sdispater/populous/commit/292fe8b91fc2ee1295e15225ca15d19bbb85ce71",
+  "@type": "git:Commit",
+  "git:hexsha": "292fe8b91fc2ee1295e15225ca15d19bbb85ce71",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/sdispater/populous"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/292fe8b91fc2ee1295e15225ca15d19bbb85ce71.nq.gz",
+      "repolex:graphFileSize": 9121
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 110588
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 556
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1410
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-28T13:00:27.033638+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
