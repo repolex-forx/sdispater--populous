@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sdispater/populous/commit/292fe8b91fc2ee1295e15225ca15d19bbb85ce71",
       "git:hexsha": "292fe8b91fc2ee1295e15225ca15d19bbb85ce71",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:03:30.802293+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sdispater/populous/commit/c1f71b0d5970c8ec9cf3ef7092b135fbd87524cf",
